@@ -1,0 +1,10 @@
+{
+    "name": "pivotal-jobs"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "pivotal-tracker": ">= 0.0.1",
+      "eyes": "0.1.6",
+      "underscore": "1.2.1"
+    }
+}
