@@ -1,1 +1,7 @@
 This will host pivotal tracker background jobs. Relies on the pivotal-tracker.js node module created by Dan Nawara. More on this later.
+
+1-Read stories and their comments from pivotal (PivotalTracker API)
+2-Parse phrases for new vs maintenance percentage (parsing logic)
+3-Add stories to spreadsheet as well as their percentages (as long as they don't exist already) (Google Spreadsheets API) (spreadsheet logic)
+
+step 3 can be done as CSV first
